@@ -1,6 +1,6 @@
 # Shivharsh Kand — Robotics & Controls Portfolio
 
-Live: https://shivharshkand.com
+Live: https://shivharshkand.com (Being updated as you read this)
 
 This is my personal portfolio showcasing work in:
 - Control Co-Design (TWIP)
